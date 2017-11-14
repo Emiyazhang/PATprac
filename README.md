@@ -5,6 +5,8 @@
 #### B1007&&B1013
 [优化的素数筛法](http://blog.csdn.net/liukehua123/article/details/5482854)
 
+#### B1017
+读入字符串模仿手算乘法即可
 
 #### 不建议使用：
 1. STL中的vector、map、set等模板，容易出现段错误。
